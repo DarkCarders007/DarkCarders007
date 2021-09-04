@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @DarkCarders007
 - 👀 Je code des Tools en Python et QT5 pour les tools en Gui.
 
-- 🌱 Je peu vous faire des Tools sur mesure sur simple demande, contactez moi !
+- 🌱 Je peu vous faire des Tools sur mesure et sur simple demande, contactez moi !
 
 # Contact
 
